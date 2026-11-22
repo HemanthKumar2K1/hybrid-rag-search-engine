@@ -1,0 +1,14 @@
+openai
+chromadb
+sentence-transformers
+langgraph
+langchain-core
+rank-bm25
+python-dotenv
+typing-extensions
+
+# optional
+pymupdf4llm   # PDF loader
+qdrant-client # Qdrant store
+ragas         # evaluation
+datasets
